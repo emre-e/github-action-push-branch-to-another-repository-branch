@@ -70,7 +70,7 @@ Then make the token available to the Github Action following the steps:
           destination-repository-name: 'dest-blog'
           destination-branch: 'dest-branch'
           commit-user-email: 'example.email@for.the.commit.com'
-          commit-username: 'example-username'
+          commit-username: 'My Example Name'
 ```
 
 ### Push directory into another repository instead
